@@ -1,0 +1,2 @@
+Before adaptation (drifted test): MAE=231.84, RMSE=565.39
+After  adaptation (drifted test): MAE=227.78, RMSE=562.74
